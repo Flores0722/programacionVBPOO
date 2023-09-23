@@ -1,5 +1,4 @@
 ﻿Module Ejercicio1
-
     Sub Main()
 
         Dim edad As Int16
